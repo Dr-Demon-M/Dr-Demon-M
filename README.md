@@ -38,14 +38,6 @@
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/8ezno) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/_8ezno_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/8ezno) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhamedmahmoud.php@gmail.com) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201093808945)
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dr-Demon-M&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub stats" /><br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Dr-Demon-M&theme=github_dark&hide_border=false" alt="GitHub streak" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dr-Demon-M&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top languages" />
-</p>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0d1117&height=120&section=footer" alt="footer" />
 </p>
