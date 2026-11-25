@@ -24,6 +24,7 @@
 
 | Project | What it is | Stack |
 | --- | --- | --- |
+| 💊 [PharmaPro](https://pharmaproplatform.com) | Pharmacy management SaaS platform: inventory with batch & barcode support, POS checkout, expiry tracking, reports & analytics (PDF/Excel export), low-stock alerts, multi-user roles & permissions | Laravel · PHP · JavaScript · MySQL |
 | 🛒 [Ajyal Store](https://github.com/Dr-Demon-M/ajyal-store) | Multi-vendor e-commerce platform: Stripe checkout, coupons, multi-currency, roles & permissions, admin dashboard, REST API | Laravel 12 · MySQL · Stripe · Pusher |
 | 🏥 [MediTrust](https://github.com/Dr-Demon-M/MediTrust) | Clinic appointment platform: doctor availability, booking workflow, real-time patient–doctor chat, notifications | Laravel 12 · MySQL · Pusher |
 | 🎨 [HTML & CSS Templates](https://github.com/Dr-Demon-M?tab=repositories) | Three responsive static templates built with pure HTML & CSS ([1](https://github.com/Dr-Demon-M/Html_css_first_project) · [2](https://github.com/Dr-Demon-M/Html_css_second_project) · [3](https://github.com/Dr-Demon-M/Html_css_third_project)) | HTML5 · CSS3 |
